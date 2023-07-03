@@ -1,22 +1,25 @@
-Welcome To Kick.it! 
+Welcome To Kick.It! 
 
-This application was created to help users find other users that have similiar interests that they don't share with their regular friend group.
+This application was created to help users find others with similar interests and to provide a plaform where users can connect by joining or hosting events.
 
-### With this app, we give the user the platform to
-- sign up and edit profile page using FireBase
-- create and attends events
-- filter through other users events that share similiar interests
-- see the location via Google Map API
-- send other users friend requests 
-- send messages using Socket.io
-- leave comments on the event page
+### With this app, users are able to:
+- Sign up/login with Firebase
+- Edit profile page information
+- Create events and/or show as interest/RSVP for events
+- Filter through events by category, sort, or search by name, location or host
+- See location details via Google Maps API
+- Send other users friend requests 
+- Chat in real time using Socket.io
+- Interact with others in the event comments section
 
-
-### Deployed Site - 
-kick-it-v1.netlify.app
-
-
-### TO Start
+### To Start
 - Fork and Clone repository
-- npm i to install all packages 
-- npm start
+- Run `npm i` to install all packages 
+- Run `npm start` to view in browser with localhost
+
+### Links
+Deployed Frontend: https://kick-it-v1.netlify.app/
+Frontend Github Repo: https://github.com/Kylie-Lang1/capstone-project-frontend
+
+Deployed Backend: https://captsone-backend.onrender.com/
+Backend Github Repo: https://github.com/Kylie-Lang1/capstone-project-backend
