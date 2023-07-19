@@ -19,7 +19,9 @@ This application was created to help users find others with similar interests an
 
 ### Links
 Deployed Frontend: https://kick-it-v1.netlify.app/
-Frontend Github Repo: https://github.com/Kylie-Lang1/capstone-project-frontend
+
+Frontend Github Repo: https://github.com/Kylie-Lang1/kick-it-frontend
 
 Deployed Backend: https://captsone-backend.onrender.com/
-Backend Github Repo: https://github.com/Kylie-Lang1/capstone-project-backend
+
+Backend Github Repo: https://github.com/Kylie-Lang1/kick-it-backend
